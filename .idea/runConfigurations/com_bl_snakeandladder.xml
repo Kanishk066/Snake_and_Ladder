@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com.bl.snakeandladder" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.bl.snakeandladder" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.bl.snakeandladder.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
